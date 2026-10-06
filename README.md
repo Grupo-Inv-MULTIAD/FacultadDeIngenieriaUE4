@@ -13,7 +13,7 @@ Inmersión UD es un proyecto creado originalmente en Unreal Engine 4.25 y se ha 
 Previo a cualquier instalación se assets debe de clonar el proyecto usando 
 
 ```
-git pull https://github.com/BOTOOM/FacultadDeIngenieriaUE4.git 
+git pull https://github.com/Grupo-Inv-MULTIAD/FacultadDeIngenieriaUE4.git 
 ```
 
 Y ya dentro de proyecto, ábralo una única vez para que Unreal Engine lo reconozca y sin importar los errores, luego ciérrelo. Estos errores saldrán, ya que aún no tiene ningún asset instalado.
@@ -24,8 +24,7 @@ Los assets se han conseguido para el proyecto por medio de promociones mensuales
 
 Sí, obtiene los assets desde la tienda de assets de Unreal Engine para añadirlos al proyecto los podrá añadir con facilidad usando el launcher de Epic Games como se muestra en la siguiente imagen:
 
-
-![añadir al proyecto](./imgdoc/add.png)
+![Add](imgdoc/add.png)
 
 Si consigue los paquetes de assets de algún proveedor externo debe de añadir el contenido en la carpeta `content` en la cual se almacenan todos los assets y seguido de ello crear una carpeta con el nombre que requiere el asset en el cual irá todo el contenido de la biblioteca de asset. En la siguiente tabla se muestra el paquete de assets, su link en epicgames y el nombre del folder
 
