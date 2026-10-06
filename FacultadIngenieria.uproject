@@ -1,0 +1,43 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.0",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "LDAssistant",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/51c5a9a0d5f84beba23aab69bed8d28c"
+		},
+		{
+			"Name": "DatasmithImporter",
+			"Enabled": true
+		},
+		{
+			"Name": "DatasmithFBXImporter",
+			"Enabled": true
+		},
+		{
+			"Name": "AutoSettings",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/fcc480bac77b4373bc6c68f0ae4f9847"
+		},
+		{
+			"Name": "AudioCapture",
+			"Enabled": false
+		},
+		{
+			"Name": "ResonanceAudio",
+			"Enabled": false
+		}
+	],
+	"TargetPlatforms": [
+		"Android",
+		"AllDesktop",
+		"LinuxNoEditor",
+		"LinuxAArch64NoEditor",
+		"WindowsNoEditor",
+		"WindowsNoEditorWin32",
+		"Windows"
+	]
+}
